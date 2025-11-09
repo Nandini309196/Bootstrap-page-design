@@ -19,4 +19,4 @@ The project emphasizes modern design, responsiveness, and usability, using Boots
 |  **Editor / IDE**       | **Visual Studio Code** | Code editing and project management           |
 |  **Version Control**    | **Git**                | Tracking changes and version management       |
 |  **Repository Hosting** | **GitHub**             | Storing and sharing project code online       |
-|  **D**                  |                        |                                               |
+                                                                                  

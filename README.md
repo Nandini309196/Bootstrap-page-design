@@ -9,7 +9,9 @@ About Page (about.html) – Shares details about the team and project goals.
 Contact Page (contact.html) – Provides a user-friendly contact form for feedback.
 
 The project emphasizes modern design, responsiveness, and usability, using Bootstrap’s grid system, custom CSS styling, and media assets for a professional finish.
+
 ⚙️ Tools & Technologies Used
+
 Category                	 Tools / Frameworks
 Frontend	                 HTML5, CSS3, Bootstrap 5
 Version                    Control	Git & GitHub

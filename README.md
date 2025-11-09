@@ -12,9 +12,15 @@ The project emphasizes modern design, responsiveness, and usability, using Boots
 
 ⚙️ Tools & Technologies Used
 
-Category                	 Tools / Frameworks
-Frontend	                 HTML5, CSS3, Bootstrap 5
-Version                    Control	Git & GitHub
-Development Environment	   Visual Studio Code
-Testing / Run            	 Live Server Extension
-Assets	                   Custom images and CSS styles
+Category                	
+Tools / Frameworks
+Frontend	                
+HTML5, CSS3, Bootstrap 5
+Version                  
+Control	Git & GitHub
+Development Environment	   
+Visual Studio Code
+Testing / Run            
+Live Server Extension
+Assets	                  
+Custom images and CSS styles

@@ -10,26 +10,13 @@ Contact Page (contact.html) – Provides a user-friendly contact form for feedba
 
 The project emphasizes modern design, responsiveness, and usability, using Bootstrap’s grid system, custom CSS styling, and media assets for a professional finish.
 
-⚙️ Tools & Technologies Used
 
-Category                	
-
-
-Tools / Frameworks
-
-Frontend	                
-
-
-HTML5, CSS3, Bootstrap 5 
-Version                  
-Control	Git & GitHub
-Development Environment	   
-
-Visual Studio Code
-
-Testing / Run            
-
-Live Server Extension
-
-Assets	                  
-Custom images and CSS styles
+| **Category**              | **Tool / Technology**  | **Purpose / Description**                     |
+| ------------------------- | ---------------------- | --------------------------------------------- |
+|  **Frontend**           | **HTML5**              | Structure and content of web pages            |
+|  **Styling**            | **CSS3**               | Custom design, layout, and animations         |
+|  **Framework**          | **Bootstrap 5**        | Responsive layout and pre-built UI components |
+|  **Editor / IDE**       | **Visual Studio Code** | Code editing and project management           |
+|  **Version Control**    | **Git**                | Tracking changes and version management       |
+|  **Repository Hosting** | **GitHub**             | Storing and sharing project code online       |
+|  **D**                  |                        |                                               |
